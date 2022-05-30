@@ -14,4 +14,4 @@ In this game, I have installed ```IMDB``` library to fetch random movie name fro
 ### Video Output
 The video output is almost same incase of **ONLINE** version too except that it takes some time to load:-
 
-https://user-images.githubusercontent.com/62896383/170318942-1b72bb58-8543-47ba-a960-96ad4184b7e5.mp4
+Check out this link: https://youtu.be/ppUNv_F6S0g
